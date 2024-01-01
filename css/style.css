@@ -1,0 +1,67 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: Tahoma;
+}
+.pertama
+{
+	background-color: black;
+	color: black;
+	height: 30px;
+}
+.kedua
+{
+	padding-top: 20px;
+	float: left;
+	color: darkred;
+	background-color: lightgrey;
+	padding-left: 30px;
+}
+.menu
+{
+	margin-left: 600px;;
+}
+
+a:hover,a:active
+{
+	color: darkred;
+	background-color: whitesmoke;
+	font-style: italic;
+}
+a:link, a:visited
+{
+	color: darkred;
+	background-color: none;	
+}
+body
+{
+	background-color: lightgrey;
+	padding-bottom: 10px;
+}
+h2
+{	text-align: center;
+	color: brown;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.back
+{
+	background-image: url(image/photo.jpg);
+	padding-top: 150px;
+	height: 400px;
+	text-align: center;
+}
+.back,img
+{
+	background-image: url(image/photo.jpg);
+	border-radius: 500px;
+	height: 150px;
+	border: 5px;
+	color: black;
+}
+.back,h1
+{
+	color: aliceblue;
+}
+
